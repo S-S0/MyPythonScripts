@@ -7,6 +7,10 @@ import requests, time, sys
 APIs = [
     "------------- Enter Here Your VirusTotal API Key -------------",
     "------------- Enter Here Your VirusTotal API Key -------------",
+    "------------- Enter Here Your VirusTotal API Key -------------",
+    "------------- Enter Here Your VirusTotal API Key -------------",
+    "------------- Enter Here Your VirusTotal API Key -------------",
+    "------------- Enter Here Your VirusTotal API Key -------------",
     "------------- Enter Here Your VirusTotal API Key -------------"
     ]
 vtUrl = "https://www.virustotal.com/vtapi/v2/file/report"
