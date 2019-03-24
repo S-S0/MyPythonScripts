@@ -1,6 +1,7 @@
 # Python 3.6.7
 # https://github.com/S-S0
-# Usage : python3 VT_IOC_HashCheck.py HashList.txt
+#  Usage : python3 VT_IOC_HashCheck.py HashList.txt
+# Result : cbed16069043a0bf3c92fff9a99cccdc Malware
 
 import requests, time, sys
 
